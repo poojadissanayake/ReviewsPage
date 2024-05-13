@@ -1,0 +1,18 @@
+{
+  "name": "reviewspage",
+  "version": "1.0.0",
+  "description": "Send a Response to the Received Data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "start:dev": "nodemon ."
+  },
+  "author": "Pooja Dissanayake",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0"
+  }
+}
